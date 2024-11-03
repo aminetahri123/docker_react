@@ -1,2 +1,2 @@
 # docker_react
-deploy react app with nginx
+deploy react app on an nginx
